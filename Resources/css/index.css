@@ -122,7 +122,8 @@
     #Aboutus {
       padding: 5rem 0;
       width: 100%;
-      background: contain;
+      background-image: url(../plant.jpg);
+      background: cover;
     }
 
     #Aboutus > div {
