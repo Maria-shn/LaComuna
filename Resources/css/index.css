@@ -157,6 +157,6 @@
     #products > div > div {
       display: grid;
       grid-template-columns: 1fr;
-      grid-template-rows: 20rem;
+      grid-template-rows: 25rem;
       grid-row-gap: 1rem;
       grid-auto-rows: 25rem;
