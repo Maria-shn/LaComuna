@@ -122,8 +122,8 @@
     #Aboutus {
       padding: 5rem 0;
       width: 100%;
-      background-image: url(../plant.jpg);
-      background: cover;
+      background-image: url(../seabackground1.jpg);
+      background-size: auto 100%;
     }
 
     #Aboutus > div {
@@ -145,6 +145,10 @@
     width: 90%;
     padding: 0 0 4rem 0 ;
     }
+    
+    #products {
+      background-image: url(../background1.jpeg);
+      background-size: auto 100%;
 
     #products > div {
       padding: 4rem 0;
