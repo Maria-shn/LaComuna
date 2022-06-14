@@ -145,10 +145,11 @@
     width: 90%;
     padding: 0 0 4rem 0 ;
     }
-    
+
     #products {
       background-image: url(../background1.jpeg);
       background-size: auto 100%;
+    }
 
     #products > div {
       padding: 4rem 0;
@@ -157,6 +158,6 @@
     #products > div > div {
       display: grid;
       grid-template-columns: 1fr;
-      grid-template-rows: 25rem;
+      grid-template-rows: 20rem;
       grid-row-gap: 1rem;
       grid-auto-rows: 25rem;
