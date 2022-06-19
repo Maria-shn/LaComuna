@@ -122,8 +122,8 @@
     #Aboutus {
       padding: 5rem 0;
       width: 100%;
-      background-image: url(../seagood.jpeg);
-      background-size: cover;
+      background-image: url(../sealarge.jpg);
+      background-size: contain;
     }
 
     #Aboutus > div {
