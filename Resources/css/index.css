@@ -125,6 +125,7 @@
       background-image: url(../palmtrees.jpeg);
       background-size: auto;
       background-repeat: repeat;
+      padding-bottom: 0;
     }
 
     #Aboutus > div {
