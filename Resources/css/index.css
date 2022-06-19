@@ -151,6 +151,7 @@
       background-image: url(../palmtrees.jpeg);
       background-size: auto;
       background-repeat: repeat;
+      margin: 0;
     }
 
     #products > div {
