@@ -122,8 +122,9 @@
     #Aboutus {
       padding: 5rem 0;
       width: 100%;
-      background-image: url(../sealarge.jpg);
-      background-size: 100% cover;
+      background-image: url(../palmtrees.jpeg);
+      background-size: auto;
+      background-repeat: repeat;
     }
 
     #Aboutus > div {
@@ -147,8 +148,9 @@
     }
 
     #products {
-      background-image: url(../beachgood.jpeg);
-      background-size: 100% cover;
+      background-image: url(../palmtrees.jpeg);
+      background-size: auto;
+      background-repeat: repeat;
     }
 
     #products > div {
